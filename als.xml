@@ -45,8 +45,8 @@
 					<AutomationLanes>
 						<AutomationLanes>
 							<AutomationLane Id="0">
-								<SelectedDevice Value="4" />
-								<SelectedEnvelope Value="10" />
+								<SelectedDevice Value="1" />
+								<SelectedEnvelope Value="18" />
 								<IsContentSelectedInDocument Value="false" />
 								<LaneHeight Value="68" />
 							</AutomationLane>
@@ -54,8 +54,8 @@
 						<AreAdditionalAutomationLanesFolded Value="false" />
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
-						<SelectedDevice Value="4" />
-						<SelectedEnvelope Value="10" />
+						<SelectedDevice Value="1" />
+						<SelectedEnvelope Value="79" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -985,8 +985,8 @@
 								<ModulationSourceCount Value="0" />
 								<ParametersListWrapper LomId="0" />
 								<Pointee Id="24610" />
-								<LastSelectedTimeableIndex Value="0" />
-								<LastSelectedClipEnvelopeIndex Value="0" />
+								<LastSelectedTimeableIndex Value="18" />
+								<LastSelectedClipEnvelopeIndex Value="79" />
 								<LastPresetRef>
 									<Value>
 										<FilePresetRef Id="1">
@@ -1262,7 +1262,7 @@
 										</VelCoarseScaleQuantized>
 										<FixedFrequencyOn>
 											<LomId Value="0" />
-											<Manual Value="false" />
+											<Manual Value="true" />
 											<AutomationTarget Id="24645">
 												<LockEnvelope Value="0" />
 											</AutomationTarget>
@@ -1273,7 +1273,7 @@
 										</FixedFrequencyOn>
 										<FixedFrequency>
 											<LomId Value="0" />
-											<Manual Value="100" />
+											<Manual Value="240.224915" />
 											<MidiControllerRange>
 												<Min Value="10" />
 												<Max Value="2000" />
@@ -9617,7 +9617,7 @@
 															<NumAudioInputs Value="1" />
 															<NumAudioOutputs Value="1" />
 															<Preset>
-																<Vst3Preset Id="10">
+																<Vst3Preset Id="11">
 																	<OverwriteProtectionNumber Value="2819" />
 																	<MpeEnabled Value="0" />
 																	<MpeSettings>
@@ -15782,7 +15782,7 @@
 				<CurrentZoom Value="0.178736517719568555" />
 			</BeatTimeHelper>
 			<ScrollerPos X="0" Y="0" />
-			<ClientSize X="786" Y="368" />
+			<ClientSize X="786" Y="542" />
 		</SequencerNavigator>
 		<IsContentSplitterOpen Value="true" />
 		<IsExpressionSplitterOpen Value="true" />
@@ -15868,7 +15868,7 @@
 		<TrackHeaderWidth Value="93" />
 		<ViewStateArrangerHasDetail Value="true" />
 		<ViewStateSessionHasDetail Value="true" />
-		<ViewStateDetailIsSample Value="true" />
+		<ViewStateDetailIsSample Value="false" />
 		<ViewStates>
 			<SessionIO Value="1" />
 			<SessionSends Value="1" />
