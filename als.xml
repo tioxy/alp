@@ -9,7 +9,7 @@
 			<MidiTrack Id="29">
 				<LomId Value="37" />
 				<LomIdView Value="0" />
-				<IsContentSelectedInDocument Value="true" />
+				<IsContentSelectedInDocument Value="false" />
 				<PreferredContentViewMode Value="0" />
 				<TrackDelay>
 					<Value Value="0" />
@@ -55,7 +55,7 @@
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
 						<SelectedDevice Value="1" />
-						<SelectedEnvelope Value="79" />
+						<SelectedEnvelope Value="18" />
 						<PreferModulationVisible Value="true" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
@@ -437,7 +437,7 @@
 							</ArrangerAutomation>
 						</ClipTimeable>
 						<Recorder>
-							<IsArmed Value="true" />
+							<IsArmed Value="false" />
 							<TakeCounter Value="0" />
 						</Recorder>
 						<MidiControllers>
@@ -6251,7 +6251,7 @@
 			<AudioTrack Id="8">
 				<LomId Value="4" />
 				<LomIdView Value="0" />
-				<IsContentSelectedInDocument Value="false" />
+				<IsContentSelectedInDocument Value="true" />
 				<PreferredContentViewMode Value="0" />
 				<TrackDelay>
 					<Value Value="0" />
@@ -6576,7 +6576,7 @@
 						<PitchViewScrollPosition Value="-1073741824" />
 						<SampleOffsetModulationScrollPosition Value="-1073741824" />
 						<Recorder>
-							<IsArmed Value="false" />
+							<IsArmed Value="true" />
 							<TakeCounter Value="1" />
 						</Recorder>
 					</MainSequencer>
@@ -9617,7 +9617,7 @@
 															<NumAudioInputs Value="1" />
 															<NumAudioOutputs Value="1" />
 															<Preset>
-																<Vst3Preset Id="11">
+																<Vst3Preset Id="12">
 																	<OverwriteProtectionNumber Value="2819" />
 																	<MpeEnabled Value="0" />
 																	<MpeSettings>
@@ -14062,12 +14062,12 @@
 															</MxDIdRef>
 															<MxDIdRef Id="2">
 																<Name Value="obj-37" />
-																<LomId Value="37" />
+																<LomId Value="4" />
 																<Property Value="" />
 															</MxDIdRef>
 															<MxDIdRef Id="3">
 																<Name Value="obj-78" />
-																<LomId Value="37" />
+																<LomId Value="4" />
 																<Property Value="name" />
 															</MxDIdRef>
 															<MxDIdRef Id="4">
@@ -15747,7 +15747,7 @@
 			<LoopStart Value="8" />
 			<LoopLength Value="16" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="3.25" />
+			<CurrentTime Value="64" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -15774,8 +15774,8 @@
 		<InKey Value="false" />
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="3" />
-			<OtherTime Value="3.25" />
+			<AnchorTime Value="64" />
+			<OtherTime Value="64" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
@@ -15837,7 +15837,7 @@
 		<SoloInPlace Value="true" />
 		<CrossfadeCurve Value="2" />
 		<LatencyCompensation Value="2" />
-		<HighlightedTrackIndex Value="0" />
+		<HighlightedTrackIndex Value="1" />
 		<GroovePool>
 			<LomId Value="0" />
 			<Grooves />
