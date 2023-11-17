@@ -9617,7 +9617,7 @@
 															<NumAudioInputs Value="1" />
 															<NumAudioOutputs Value="1" />
 															<Preset>
-																<Vst3Preset Id="12">
+																<Vst3Preset Id="13">
 																	<OverwriteProtectionNumber Value="2819" />
 																	<MpeEnabled Value="0" />
 																	<MpeSettings>
@@ -15747,7 +15747,7 @@
 			<LoopStart Value="8" />
 			<LoopLength Value="16" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="64" />
+			<CurrentTime Value="68" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -15774,8 +15774,8 @@
 		<InKey Value="false" />
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="64" />
-			<OtherTime Value="64" />
+			<AnchorTime Value="68" />
+			<OtherTime Value="68" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
